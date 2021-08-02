@@ -1,0 +1,6 @@
+module Pods_signupdemo {
+  umbrella header "Pods-signupdemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
